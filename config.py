@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ZeoXpro")
+OWNER_USERNAME = getenv("OWNER_USERNAME","its_deva_heree")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "ShizukaProBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "NAKSH_X_MUSIC")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Siri")
+BOT_NAME = getenv("BOT_NAME" , "naksh")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "ShizukaPro")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Jannat_x_assistant")
 # ---------------------------------------------------------
 
 
@@ -32,14 +32,14 @@ API_KEY = getenv("API_KEY")
 #---------------------------------------------------------------
 
 # ----------------------------------------------------------------
-DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
+DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 9999))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002100130095))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002453612342))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7355202884))
+OWNER_ID = int(getenv("OWNER_ID", 7538572906))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -54,7 +54,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/SANATANIxTECH/Xd",
+    "https://github.com/codes0805/clonebot",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -68,10 +68,10 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ProBotts")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ProBotGc")
-SOURCE = getenv("SOURCE", "https://t.me/ProBotts")
-CHAT = getenv("CHAT", "https://t.me/ProBotGc")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TFW_UPDATES")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/BOTS_SUPPORT")
+SOURCE = getenv("SOURCE", "https://t.me/TFW_CHATTING_CLUB")
+CHAT = getenv("CHAT", "https://t.me/TFW_FUCKER")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
